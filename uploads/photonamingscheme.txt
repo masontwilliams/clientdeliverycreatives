@@ -1,1 +1,1 @@
-folder for uploads: "1.png","2.png", etc.
+Directory for Photos. Photo naming scheme: "1.png","2.png", etc. should match up with galleryj.JSON to popluate correct text information with photos in slideshow and download page.
