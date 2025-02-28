@@ -1,7 +1,7 @@
 <?php
 session_start(); // Start the session
 
-// Hardcoded password (you can update this as needed)
+// Hardcoded password (update later)
 $valid_password = 'password'; // Use a secure password in production
 
 // Check if the form is submitted
